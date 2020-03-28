@@ -1,0 +1,11 @@
+[package]
+name = "clicker"
+version = "1.0.0"
+authors = ["Illia `dragonhaze` Chub"]
+edition = "2018"
+
+
+[dependencies]
+clap = "2.33.0"
+enigo = "0.0.14"
+text_io = "0.1.8"
